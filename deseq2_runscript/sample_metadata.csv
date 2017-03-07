@@ -1,0 +1,41 @@
+sampleID,scientificName,commonName,yearCollected,soilFraction
+Mr.N.s3.14,Muhlenbergia reverchonii,curly muhley,2014,N
+BS.VP.14,bulkVP,bulkVP,2014,B
+Cp.R.VP.14,Carex planostachys,cedar sedge,2014,R
+Mr.R.s3.14,Muhlenbergia reverchonii,curly muhley,2014,R
+Sc.R.VP.14,Schizachyrium scoparium,little bluestem,2014,R
+Ja.R.s4.14,Juniperus ashei,ash juniper,2014,R
+Sc.N.VP.14,Schizachyrium scoparium,little bluestem,2014,N
+Cp.E.VP.14,Carex planostachys,cedar sedge,2014,E
+Sc.E.VP.14,Schizachyrium scoparium,little bluestem,2014,E
+BS.s3.14,bulkS3,bulkS3,2014,B
+Ja.N.s4.14,Juniperus ashei,ash juniper,2014,N
+Mr.E.s3.14,Muhlenbergia reverchonii,curly muhley,2014,E
+Ja.E.s4.14,Juniperus ashei,ash juniper,2014,E
+Cp.N.VP.14,Carex planostachys,cedar sedge,2014,N
+Nl.R.15,Nolina lindheimeriana,devil's shoestring,2015,R
+Ss.E.15,Sophora secundiflora,mountain laurel,2015,E
+Nl.N.15,Nolina lindheimeriana,devil's shoestring,2015,N
+Yr.B.15,Yucca rupicola,twistleaf yucca,2015,B
+Yr.R.15,Yucca rupicola,twistleaf yucca,2015,R
+Nl.E.15,Nolina lindheimeriana,devil's shoestring,2015,E
+Ss.R.15,Sophora secundiflora,mountain laurel,2015,R
+At.R.15,Arbutus xalapensis,Texas madrone,2015,R
+Pg.R.15,Prosopis glandulosa,honey mesquite,2015,R
+Ss.N.15,Sophora secundiflora,mountain laurel,2015,N
+Mr.N.15,Muhlenbergia reverchonii,curly muhley,2015,N
+Mr.R.15,Muhlenbergia reverchonii,curly muhley,2015,R
+Pg.N.15,Prosopis glandulosa,honey mesquite,2015,N
+Nl.B.15,Nolina lindheimeriana,devil's shoestring,2015,B
+Pg.E.15,Prosopis glandulosa,honey mesquite,2015,E
+Mr.E.15,Muhlenbergia reverchonii,curly muhley,2015,E
+At.N.15,Arbutus xalapensis,Texas madrone,2015,N
+Ja.R.15,Juniperus ashei,ash juniper,2015,R
+Mr.B.15,Muhlenbergia reverchonii,curly muhley,2015,B
+Yr.E.15,Yucca rupicola,twistleaf yucca,2015,E
+At.B.15,Arbutus xalapensis,Texas madrone,2015,B
+At.E.15,Arbutus xalapensis,Texas madrone,2015,E
+Pg.B.15,Prosopis glandulosa,honey mesquite,2015,B
+Ja.B.15,Juniperus ashei,ash juniper,2015,B
+Yr.N.15,Yucca rupicola,twistleaf yucca,2015,N
+Ss.B.15,Sophora secundiflora,mountain laurel,2015,B
