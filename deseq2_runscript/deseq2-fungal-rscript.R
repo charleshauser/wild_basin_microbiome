@@ -9,8 +9,8 @@ setwd("~/Desktop/deseq2_runscript")
 
 # SET UP COUNTS MATRIX
 # read counts file (no taxonomy)
-df <- read.table("combined_onlyfungi_noCL", sep = ",", row.names = "OTU_ID",
-				 header = TRUE)
+df <- read.table("combined_onlyfungi_noCL.csv", sep = ",", row.names = "OTU_ID",
+        				 header = TRUE)
 head(df, 1)
 
 # sort df by col name
@@ -34,14 +34,14 @@ head(countData)
 # SET UP METADATA MATRIX
 # read in sample metadata (includes sampleID, scientificName, commonName, 
 # yearCollected, and soilFraction)
-colData <- read.csv("sample_metadata", sep = ",", row.names = "sampleID", 
+colData <- read.csv("sample_metadata.csv", sep = ",", row.names = "sampleID", 
 					header = TRUE)
-head(colData)
+head(colData, 1)
 
 # order by row name so column of count matrix and rows of column data are in
 # the same order
 colData <- colData[order(names(colData)), ]
-head(colData)
+head(colData, 1)
 
 #verify all sample names are present in both files
 all(rownames(colData) %in% colnames(countData))
